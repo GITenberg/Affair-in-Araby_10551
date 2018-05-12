@@ -1,5 +1,8 @@
 _repo: Affair-in-Araby_10551
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mundy, Talbot
@@ -14,6 +17,8 @@ description: Also published under the title The King in Check, Affair in Araby i
   the globetrotting exploits of British secret service agent James Schuyler Grim.
   In this thrilling installment, Jimgrim finds himself in the middle of a maelstrom
   of political one-upmanship between various factions from France, Syria, and Jerusalem.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10551#Affair-in-Araby
 gutenberg_bookshelf: Adventure
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
